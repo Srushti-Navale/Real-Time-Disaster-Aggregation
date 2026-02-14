@@ -1,6 +1,4 @@
 # Real-Time-Disaster-Aggregation
-Here is the revised abstract:
-
 *Project Abstract: Real-Time Disaster Alert Dashboard*
 
 In a crisis, every second counts. Our *Real-Time Disaster Alert Dashboard* delivers live updates by scraping *breaking news* (BBC, Reddit) and social feeds—no APIs needed! Built with *Python* and *Streamlit*, the system extracts disaster reports, filters critical updates, and displays them in a clean, interactive dashboard.
